@@ -3,11 +3,11 @@
 **VnStock Pro** là một ứng dụng web được xây dựng bằng Python và Streamlit bởi nhóm 5 sinh viên lớp K23414A, cho môn học Gói phần mềm ứng dụng cho tài chính 1, cung cấp một giao diện hiện đại và chuyên nghiệp để phân tích và trực quan hóa dữ liệu chứng khoán Việt Nam. Ứng dụng tự động tải dữ liệu mới nhất từ nguồn CafeF, cho phép người dùng theo dõi biểu đồ giá, áp dụng các chỉ báo kỹ thuật phổ biến và xem các thống kê quan trọng một cách trực quan.
 
 **Danh sách sinh viên thực hiện:**
-Phan Đặng Anh Kiệt - K234141653
-Ngô Cao Nguyên - K234141661
-Trần Thị Hoài Nhân - K234141662
-Huỳnh Bảo Nhi - K234141663
-Cao Huỳnh Tuyết Trân - K234141684
+* Phan Đặng Anh Kiệt - K234141653
+* Ngô Cao Nguyên - K234141661
+* Trần Thị Hoài Nhân - K234141662
+* Huỳnh Bảo Nhi - K234141663
+* Cao Huỳnh Tuyết Trân - K234141684
 
 ## ✨ Tính năng nổi bật
 
